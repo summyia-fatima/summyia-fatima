@@ -81,16 +81,5 @@ Designing meaningful digital experiences & building scalable web and mobile appl
 
 <hr style="border: 0; height: 1px; background: #eaeaea; margin: 22px 0;">
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=summyia-fatima&show_icons=true&theme=transparent&cache_seconds=1800" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=summyia-fatima&layout=compact&theme=transparent&cache_seconds=1800" />
-</p>
-
-<hr style="border: 0; height: 1px; background: #eaeaea; margin: 22px 0;">
 
 ⭐ 2026 Goal: To become a high-impact UI/UX Engineer building scalable digital products.
