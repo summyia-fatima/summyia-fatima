@@ -65,27 +65,26 @@ I design intuitive user experiences and build modern, scalable web & mobile appl
 
 ---
 
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/summyia-fatima-274787311
-- 🟢 Upwork: https://www.upwork.com/freelancers/~0122f77e7f41425d90?mp_source=share
-- 🟣 Fiverr: https://www.fiverr.com/s/Eg7dVaK
-- 📸 Instagram: https://www.instagram.com/uiux_designer_dev/
-- 🔵 Facebook: https://web.facebook.com/uiux.designer.dev
-- 📧 Email: summyiawork@gmail.com
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_NEW_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NEW_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+### 🔗 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/summyia-fatima-274787311" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.upwork.com/freelancers/~0122f7e7141425d901" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" target="_blank"></a>
+  <a href="https://www.fiverr.com/s/Eg7dVak" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/uiux_designer_dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:summyiawork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 ---
 
-⭐ 2026 Goal: To become a high-impact UI/UX Engineer building scalable digital products.
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=summyia-fatima&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=summyia-fatima&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🎯 2026 Goal
+> **To become a high-impact UI/UX Engineer building scalable digital products.**
+
+---
