@@ -2,89 +2,80 @@
 <h3 align="center">UI/UX Designer | Frontend Web Developer | App Developer</h3>
 
 <p align="center">
-I design intuitive user experiences and build modern, scalable web & mobile applications.
+Designing meaningful digital experiences & building scalable web and mobile applications.
 </p>
 
----
+<hr style="border: 0; height: 1px; background: #eaeaea; margin: 30px 0;">
 
 ## 👩‍🎨 About Me
 
-- 🎨 UI/UX Designer focused on clean, user-centered design systems
-- 💻 Frontend Web Developer building responsive & high-performance websites
-- 📱 App Developer creating cross-platform applications
-- 🚀 Continuously learning and building production-ready solutions
-- 🎯 Passionate about combining design thinking with functional development
+- 🎨 UI/UX Designer focused on clean, user-centered interfaces  
+- 💻 Frontend Developer building responsive & high-performance websites  
+- 📱 App Developer creating cross-platform mobile applications  
+- 🚀 Passionate about combining design thinking with modern development  
+- 🎯 Focused on production-ready and scalable systems  
 
----
+<hr style="border: 0; height: 1px; background: #eaeaea; margin: 30px 0;">
 
 ## 🛠️ Tech Expertise
 
 ### 🎨 UI/UX & Design
-- Figma
-- Adobe Illustrator
-- Wireframing & Prototyping
-- Design Systems
-- Responsive Design Principles
+- Figma  
+- Adobe Illustrator  
+- Wireframing & Prototyping  
+- Design Systems  
+- Responsive Design  
 
 ### 🌐 Frontend Web Development
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
+- React.js  
+- JavaScript (ES6+)  
+- HTML5  
+- CSS3  
+- Bootstrap  
+- Tailwind CSS  
 
 ### 📱 App Development
-- Flutter
-- Dart
-- Firebase
-- React Native
+- Flutter  
+- Dart  
+- React Native  
+- Firebase  
 
 ### 🖥️ Backend & Database
-- Node.js
-- Laravel
-- PHP
-- MySQL
-- Firebase Firestore
+- Node.js  
+- Laravel  
+- PHP  
+- MySQL  
+- Firebase Firestore  
 
----
+<hr style="border: 0; height: 1px; background: #eaeaea; margin: 30px 0;">
 
 ## 🌐 Portfolio
 
 🔗 https://summyia-portfolio.vercel.app/
 
----
+<hr style="border: 0; height: 1px; background: #eaeaea; margin: 30px 0;">
 
-## 🔥 2026 Focus
+## 🤝 Connect With Me
 
-- Advanced UI/UX Systems
-- Scalable Frontend Architecture
-- Cross-Platform App Development
-- Clean Code & Performance Optimization
-- Building Real-World Production Apps
+- 💼 LinkedIn: https://linkedin.com/in/summyia-fatima-274787311  
+- 🟢 Upwork: https://www.upwork.com/freelancers/~0122f77e7f41425d90?mp_source=share  
+- 🟣 Fiverr: https://www.fiverr.com/s/Eg7dVaK  
+- 📸 Instagram: https://www.instagram.com/uiux_designer_dev/  
+- 🔵 Facebook: https://web.facebook.com/uiux.designer.dev  
+- 📧 Email: summyiawork@gmail.com  
 
----
+<hr style="border: 0; height: 1px; background: #eaeaea; margin: 30px 0;">
 
-### 🔗 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/summyia-fatima-274787311" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.upwork.com/freelancers/~0122f7e7141425d901" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" target="_blank"></a>
-  <a href="https://www.fiverr.com/s/Eg7dVak" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/uiux_designer_dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:summyiawork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
+## 📊 GitHub Stats
 
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=summyia-fatima&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=summyia-fatima&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=summyia-fatima&show_icons=true&theme=transparent&cache_seconds=1800" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=summyia-fatima&layout=compact&theme=transparent&cache_seconds=1800" />
+</p>
 
-### 🎯 2026 Goal
-> **To become a high-impact UI/UX Engineer building scalable digital products.**
+<hr style="border: 0; height: 1px; background: #eaeaea; margin: 30px 0;">
 
----
+⭐ 2026 Goal: To become a high-impact UI/UX Engineer building scalable digital products.
